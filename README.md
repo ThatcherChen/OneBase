@@ -151,3 +151,7 @@ Lab documentation is available in both English and Chinese:
 | 2 - B+ Tree | [lab2_b_plus_tree_en.md](docs/lab2_b_plus_tree_en.md) | [lab2_b_plus_tree_zh.md](docs/lab2_b_plus_tree_zh.md) |
 | 3 - Query Execution | [lab3_query_execution_en.md](docs/lab3_query_execution_en.md) | [lab3_query_execution_zh.md](docs/lab3_query_execution_zh.md) |
 | 4 - Concurrency Control | [lab4_concurrency_control_en.md](docs/lab4_concurrency_control_en.md) | [lab4_concurrency_control_zh.md](docs/lab4_concurrency_control_zh.md) |
+
+## Common Mistakes
+
+Check [here](docs/common_mistakes.md).
